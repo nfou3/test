@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1,AL ARABY TV HD
-https://edge66.magictvbox.com/live/nessma/tracks-v1a1/mono.m3u8
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3600
+#EXTINF:3600,
+https://play.witv.store/live/2719C8919B250671368654F53F9595F1/137.ts
+#EXT-X-ENDLIST
