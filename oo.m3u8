@@ -47,7 +47,8 @@ http://apk.ch-arabic.buzz:80/live/022/index.m3u8
 http://apk.ch-arabic.buzz:80/live/023/index.m3u8
 #EXTINF:-1,Channel 024
 http://apk.ch-arabic.buzz:80/live/024/index.m3u8
-#EXTINF:-1,Channel 025http://apk.ch-arabic.buzz:80/live/025/index.m3u8
+#EXTINF:-1,Channel 025
+http://apk.ch-arabic.buzz:80/live/025/index.m3u8
 #EXTINF:-1,Channel 026
 http://apk.ch-arabic.buzz:80/live/026/index.m3u8
 #EXTINF:-1,Channel 027
