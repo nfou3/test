@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://blcco.linkip.org/
 #EXTINF:-1,Stream 0
 https://blcco.linkip.org/live/3461_.m3u8
 #EXTINF:-1,Stream 1
